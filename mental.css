@@ -1,0 +1,20 @@
+.buttons {
+    display:table;
+}
+
+.button-row {
+    display:table-row;
+}
+
+.button {
+    display:table-cell;
+    width:25%;
+}
+
+.correct {
+  display: none;
+}
+
+.incorrect {
+  display: none;
+}
